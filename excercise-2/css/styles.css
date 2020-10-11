@@ -1,0 +1,35 @@
+
+/***************************TAG SELECTOR*****************************/
+
+h1 {
+	color:silver;
+	font-size:200px; 
+}
+
+
+
+img:hover {
+	background-color:maroon;
+}
+
+
+
+/***************************CLASS SELECOTR*****************************/
+
+.cat {
+	background-color: green;
+}
+
+.rat {
+	background-color: yellow;
+}
+
+.circular {
+	border-radius: 100%;
+}
+
+/***************************ID SELECOTR*****************************/
+
+#heading {
+	color:green;
+}
